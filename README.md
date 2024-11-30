@@ -31,7 +31,7 @@ Before using **SSH-Node-CLI**, ensure the following setup:
 Install **SSH-Node-CLI** globally using npm:
 
 ```bash
-npm install -g ssh-cli
+npm i -g ssh-cli-windows
 ```
 
 ## Usage

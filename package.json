@@ -1,5 +1,5 @@
 {
-  "name": "ssh-cli",
+  "name": "ssh-cli-windows",
   "version": "1.0.0",
   "description": "CLI app to facilitate ssh",
   "main": "index.js",
